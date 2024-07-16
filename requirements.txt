@@ -4,3 +4,4 @@ numba == 0.48
 tensorflow < 2.0
 cupy == 9.2
 cython-bbox
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
